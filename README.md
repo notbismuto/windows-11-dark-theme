@@ -5,7 +5,9 @@ when you double-click you will see this window
 ![image](https://github.com/user-attachments/assets/c02f2b84-577e-4c8b-a3f5-b0ba42c48d2d)
 
 click yes and you will see this
+
 ![image](https://github.com/user-attachments/assets/5190c8fc-7449-4704-8698-e00bcc96ff8f)
+
 then, sign out or reboot your PC (most recommended)
 screenshots:
 
