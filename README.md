@@ -1,3 +1,9 @@
+⚠️ | DON'T USE THIS SHIT
+I'm just now realizing that it works incorrectly and bugs very badly with graphical bugs like the texts in classic menus
+are not noticeable or that when hovering over a classic button it turns completely black and I'm too lazy to fix that
+so don't download it :)
+
+
 download reg file and execute it
 
 when you double-click you will see this window
